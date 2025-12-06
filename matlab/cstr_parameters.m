@@ -1,7 +1,5 @@
 % cstr_parameters.m
 % Defines all parameters and constants for the CSTR digital twin
-% Author: [Your Name]
-% Date: December 2025
 
 %% Clear workspace
 clear all;
