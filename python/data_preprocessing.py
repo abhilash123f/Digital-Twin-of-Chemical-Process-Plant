@@ -2,9 +2,6 @@
 data_preprocessing.py
 Loads and preprocesses simulation data from MATLAB (simulated OPC-UA data)
 Prepares data for anomaly detection
-
-Author: [Your Name]
-Date: December 2025
 """
 
 import pandas as pd
