@@ -3,8 +3,6 @@ anomaly_detection.py
 Detects anomalies in CSTR process data using statistical methods
 Implements predictive maintenance alerts
 
-Author: [Your Name]
-Date: December 2025
 """
 
 import pandas as pd
