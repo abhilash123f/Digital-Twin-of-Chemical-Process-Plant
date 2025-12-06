@@ -1,10 +1,8 @@
 """
 run_cstr_simulation.py
 Pure Python implementation of CSTR simulation (alternative to MATLAB)
-Runs the complete simulation and generates data for anomaly detection
+Runs the complete simulation and generates data for anomaly detection.
 
-Author: [Your Name]
-Date: December 2025
 """
 
 import numpy as np
