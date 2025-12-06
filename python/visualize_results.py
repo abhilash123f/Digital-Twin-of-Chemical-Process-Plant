@@ -1,9 +1,6 @@
 """
 visualize_results.py
 Generates visualizations for CSTR digital twin results and anomaly detection
-
-Author: [Your Name]
-Date: December 2025
 """
 
 import pandas as pd
