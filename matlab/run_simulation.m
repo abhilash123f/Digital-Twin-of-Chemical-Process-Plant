@@ -2,9 +2,7 @@
 % Main simulation script for CSTR digital twin
 % Runs the process model with PID + Feedforward control
 % Exports data to CSV for Python anomaly detection
-%
-% Author: [Your Name]
-% Date: December 2025
+
 
 %% Initialize
 clear all;
